@@ -4,3 +4,5 @@ Hier werden einfache Websites zur Vermittlung von HTML, CSS, PHP und MySQL erste
 Wir starten mit HMTL, lernen anschließend CSS kennen und schreiben im Anschluss erste Scripe in PHP.
 
 Zuletzt werden PHP und MySQL-Datenbanken verknüpft, um die Interaktivität der einfachen Projekte weiter zu steigern.
+
+Ich kann die README auch über VSCode bearbeiten und die Änderungen dann pushen!
